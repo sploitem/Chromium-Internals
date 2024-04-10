@@ -11,9 +11,12 @@ Learning a Chromium internals mostly through it's docs (design or other).
 
 ![image](https://github.com/sploitem/Chromium-Internals/blob/main/ChromeSiteIsolationProject-arch.png)
 
+![image](https://github.com/sploitem/Chromium-Internals/blob/main/ChromeSiteIsolationProject-siteinstances.png)
+
 [Site Isolation Design Document](https://www.chromium.org/developers/design-documents/site-isolation/)
 
 ### Content
+
 
 [Content module](https://source.chromium.org/chromium/chromium/src/+/main:content/README.md)
 
