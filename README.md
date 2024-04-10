@@ -9,6 +9,8 @@ Learning a Chromium internals mostly through it's docs (design or other).
 
 ## Render
 
+![image](https://github.com/sploitem/Chromium-Internals/blob/main/ChromeSiteIsolationProject-arch.png)
+
 [Site Isolation Design Document](https://www.chromium.org/developers/design-documents/site-isolation/)
 
 ### Content
