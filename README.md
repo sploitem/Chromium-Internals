@@ -17,7 +17,6 @@ Learning a Chromium internals mostly through it's docs (design or other).
 
 ### Content
 
-
 [Content module](https://source.chromium.org/chromium/chromium/src/+/main:content/README.md)
 
 ### Source code and architecture
