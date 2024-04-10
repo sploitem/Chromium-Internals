@@ -23,6 +23,8 @@ Learning a Chromium internals mostly through it's docs (design or other).
 
 [Content module](https://source.chromium.org/chromium/chromium/src/+/main:content/README.md)
 
+[What is content/browser/renderer_host?](https://source.chromium.org/chromium/chromium/src/+/main:content/browser/renderer_host/README.md)
+
 ### Source code and architecture
 
 ![image](https://github.com/sploitem/Chromium-Internals/blob/main/Chromium-Layers-Arch.png)
